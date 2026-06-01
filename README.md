@@ -169,7 +169,7 @@ Archivos requeridos por el servicio de compilación.
 # 📂 Estructura del proyecto
 
 ```bash
-arduino-files/
+PlataformaWebDesarrolloArduino/
 │
 ├── examples/               # Ejemplos Arduino
 ├── libraries/              # Librerías soportadas
@@ -200,7 +200,7 @@ arduino-files/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/codebendercc/arduino-files.git
+git clone https://github.com/isairey/PlataformaWebDesarrolloArduino.git
 ```
 
 ---
@@ -208,7 +208,7 @@ git clone https://github.com/codebendercc/arduino-files.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd arduino-files
+cd PlataformaWebDesarrolloArduino
 ```
 
 ---
@@ -318,9 +318,9 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## Codebender Team
+## Isai Reyes - FullStack Developer
 
-Equipo dedicado al desarrollo de herramientas cloud para makers, desarrolladores y entusiastas de Arduino.
+Desarrollador dedicado al desarrollo de herramientas cloud para makers, desarrolladores y entusiastas de Arduino.
 
 </div>
 
